@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ARQUITECTURA ABIERTA]]></title>
         <description><![CDATA[ARQUITECTURA ABIERTA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/arquitectura-abierta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 13:53:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 26 May 2016 14:13:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/arquitectura-abierta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CASA VP]]></title>
+            <description><![CDATA[<article><h1>CASA VP</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c67c49f3-50cf-4fb0-8be1-70d9d991f3f8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/arquitectura-abierta/casa-vp/index.html</link>
+            <guid isPermaLink="false">261ce8e0-574c-41aa-8a79-c288ddc441d2</guid>
+            <pubDate>Thu, 26 May 2016 14:13:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PARADISIA]]></title>
             <description><![CDATA[<article><h1>PARADISIA</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d89b35cd87fd174cb524ed374eb6c33820f7f577.jpg"></article>]]></description>
-            <link>undefinedparadisia/index.html</link>
+            <link>https://thegrid.ai/arquitectura-abierta/paradisia/index.html</link>
             <guid isPermaLink="false">4ad50d18-e05e-463f-a76a-02c2d460a0e5</guid>
             <pubDate>Wed, 25 May 2016 13:53:19 GMT</pubDate>
         </item>
